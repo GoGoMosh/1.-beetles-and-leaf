@@ -22,5 +22,7 @@
 
 [PDF файл]https://drive.google.com/file/d/1VnHZ8QnoR5g4WmW2duEzpKQV0qRzTj6T/view?usp=sharing
 
-## 
+## Автор
+
+[GoGoMosh]https://github.com/GoGoMosh
 
