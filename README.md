@@ -1,7 +1,7 @@
 # Моделирование движения пары тел, составляющих квазизамкнутую систему, с учетом влияния сил вязкого трения
 
 <p align='center'>
-	<img src='https://i.artfile.ru/2880x1800_1006710_[www.ArtFile.ru].jpg'> 
+	<img src='https://wallup.net/wp-content/uploads/2018/10/08/601293-lady-bug.jpg'> 
 <p align='center'>
 
 
