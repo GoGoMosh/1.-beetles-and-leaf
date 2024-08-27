@@ -2,9 +2,9 @@
 
 
 <p align='center'>
-	<img src='https://img.shields.io/badge/Language-python-blue'> <br>
-
-	<img src='https://img.shields.io/badge/Package-numpy%2C%20matplotlib-blueviolet'> <br>
+	<img src='https://img.shields.io/badge/Language-python-blue'> 
+<p align='center'>
+	<img src='https://img.shields.io/badge/Package-numpy%2C%20matplotlib-blueviolet'> 
 </p>
 
 
