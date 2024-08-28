@@ -18,9 +18,9 @@
 
 ## Документация
 
-В PDF файле представлены вся теория, математические расчёты и код
+В PDF файле представлена вся теория, математические расчёты и код
 
-[PDF файл](https://drive.google.com/file/d/1VnHZ8QnoR5g4WmW2duEzpKQV0qRzTj6T/view?usp=sharing)
+[PDF файл](https://drive.google.com/file/d/1XnaJJla4MYiTuQBy_XLdeyL9ZXZxWiCE/view?usp=sharing)
 
 ## Автор
 
